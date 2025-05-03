@@ -65,10 +65,7 @@ I have participated in multiple Capture the Flag (CTF) competitions and cybersec
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn**: [Frances Agba](https://www.linkedin.com/in/nazaagba)
-- **Email**: blackswan4150@gmail.com
-- **GitHub**: 
+
 
 ---
 
