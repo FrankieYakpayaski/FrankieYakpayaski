@@ -1,4 +1,4 @@
-# 👩‍💻 Frances Agba - AI Governance, Risk and Assurance Specialist | Computer Science Educator
+# 🛡️⚖️ Frances Agba - AI Governance, Risk and Assurance Specialist | Computer Science Educator
 
 Hi, this is Frankie,  I work at the intersection of AI governance, education and public-facing technology.
 
