@@ -27,6 +27,8 @@ Alongside my governance work, I teach Computer Science and Information Technolog
 -  Governance policies and accountability structures
 -  Regulatory and policy research
 
+---
+
 - **AI Assurance and Risk**
 - AI system risk registers
 - Model limitation and failure analysis
@@ -37,7 +39,9 @@ Alongside my governance work, I teach Computer Science and Information Technolog
 - Safe-by-design governance
 - AI procurement and supplier risk
 
- - **Public-Facing AI**
+---
+
+- **Public-Facing AI**
 - Multilingual AI safety in African contexts
 - Digital inclusion and access
 - Responsible public-sector AI
