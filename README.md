@@ -84,10 +84,10 @@ Responsible AI learning pathways remain under development.
 
 ---
 
-### 💻 Computer Science Teacher & Service Delivery Lead | Desborough College, UK
+### 💻 Computer Science Educator & Service Delivery Lead 
 **September 2023–Present**
 
-Lead Key Stage 3 IT provision and deliver Computer Science and digital education across secondary school year groups.
+Lead Key Stage 3, 4 & 5 IT provision and deliver Computer Science and digital education across secondary school year groups.
 
 My work includes:
 
